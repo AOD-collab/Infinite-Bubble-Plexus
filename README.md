@@ -7,6 +7,7 @@ Author: Angel Sarmento
 Contact: angelsarmento20@gmail.com
 
 Abstract
+
 I am proposing a new conceptual analogy for understanding hierarchical complexity and intelligence: The Infinite Bubble Plexus. This model bridges the gap between recursive mathematical structures and the practical reality of intelligence—whether biological or artificial.
 
 The Concept
