@@ -2,7 +2,7 @@
 A conceptual analogy by Angel Sarmento for understanding hierarchical systems and AI.
 
 The Infinite Bubble Plexus Model
-Author: Angel Sarmento
+Author: Angel Sarmento LAKI BANGET 
 
 Contact: angelsarmento20@gmail.com
 
