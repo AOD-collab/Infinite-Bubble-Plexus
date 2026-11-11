@@ -1,5 +1,5 @@
 # Infinite-Bubble-Plexus
-A conceptual analogy by Angel Sarmento for understanding hierarchical systems and AI.
+A conceptual analogy by APS for understanding hierarchical systems and AI.
 
 The Infinite Bubble Plexus Model
 Author: morphnewgen
